@@ -5,8 +5,8 @@ infrastructure as code tool (IaC). Users can deploy a data center
 infrastructure using a declarative configuration language known as
 HashiCorp Configuration Language (HCL), or using JSON.
 Terraform has
-some advantages over OpenStack Heat service. It is has a simple syntax, it
-can provision virtual infrastructures across multiple cloud providers
+some advantages over OpenStack Heat service. It has a simple syntax,
+it can provision virtual infrastructures across multiple cloud providers
 (not only OpenStack) and it provides important features like network port forwarding rules (see
 [floating-ip](configure_instances.md#floating-ip-addresses)).
 Terraform is
